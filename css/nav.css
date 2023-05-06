@@ -1,0 +1,30 @@
+#left {
+    list-style: none;
+    margin:1%;
+    padding:2.5%;
+    background-color: black;
+    margin: 0;
+  }
+  
+  #left li {
+    float: left;
+    text-align: center;
+    margin-right:5%;
+    margin-left: 2%;
+    margin-top: -0.5%;
+  }
+
+  #left li a{
+    text-decoration: none;
+    color: white;
+  }
+  
+  #left li:hover {
+    opacity:0.5;
+  }
+
+  #left #nav_log_btn{
+    margin-right:2%;
+    margin-left: 5%;
+    float: right;
+  }
