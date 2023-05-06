@@ -1,4 +1,10 @@
 body{
     margin: 0;
     text-align: center;
+    background-color: aqua;
+}
+
+.question{
+    font-size: small;
+    color:brown;
 }
